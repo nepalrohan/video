@@ -3,7 +3,7 @@
   "private":false,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"http://github.com/nepalrohan/hamrochatapp.git",
+  "homepage":"http://github.com/nepalrohan/video.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
